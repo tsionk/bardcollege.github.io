@@ -46,19 +46,19 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: purple;
     font-size: 110%;
-    background:gray;
+    background:yellow;
     padding: 4px;
     border:1px solid white;
 }
 
 .button {
-    background: white;
+    background: orange;
     font-size: 110%;
-    color:gray;
+    color:red;
     padding: 4px;
-    border:2px solid white;
+    border:2px solid green;
 }
 
 .redacted{
